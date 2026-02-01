@@ -16,7 +16,7 @@ Open `index.html` in your browser or visit the [live site](https://brookrussi.gi
 
 ## Based On
 
-Research into enterprise AI adoption patterns and common barriers to technology adoption in professional services.
+Enterprise AI adoption patterns and common barriers to technology adoption in professional services.
 
 ## Author
 
